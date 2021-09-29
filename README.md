@@ -10,3 +10,7 @@ Open Git Bash on your system and type the following command
  directory name. It is because it is the exe file we would
  like to get opened when we need an editor in Git. This file
  corresponds to the Notepad++ startup of the software.
+ 
+ I believe git-bash is an actual bash shell, so when it starts,
+ it runs a .bashrc file from somewhere (most likely your home
+ directory or the directory git-bash starts in).
